@@ -1,5 +1,3 @@
-from unittest import result
-
 
 s1 = input ("Введите значение s1 ")
 s2 = input ("Введите значение s2 ")
